@@ -201,3 +201,33 @@ footer {
 /* PORTFOLIO FINISH */
 
 /* CONTACT START */
+
+label {
+    display: block;
+    width: 100%;
+}
+input, textarea {
+    width: 100%;
+    height: 35px;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border: 1px solid #ddd;
+}
+
+textarea {
+    height: 200px;
+}
+
+input[type=submit] {
+width: 150px;
+height: 42px;
+font-size: 18px;
+padding: 10px 30px;
+color: #fff;
+cursor: pointer;
+background-color: #4aaaa5;
+border: none;
+}
+
+/* CONTACT FINISH */
