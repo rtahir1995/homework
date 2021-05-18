@@ -1,0 +1,37 @@
+/* GENERAL */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    background-image: url(./img/concrete_seamless.png);
+}
+
+
+
+/* HEADER */
+
+header {
+    border-bottom: 2px solid #ddd;
+}
+
+.logo {
+    background-color: #4aaaa5;
+    text-align: center;
+}
+
+.logo-link {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 90px;
+    color: #fff;
+}
+
+li > a {
+    color: #999;
+}
+
+/* li > a + a {
+    border-left: 1px solid #efefef;
+} */

@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    background-color: #1E1E1E;
+    background-color: #130B2F;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,7 +16,7 @@ body {
 
 .easy, .hard {
     box-sizing: content-box;
-    border: 2px solid red;
+    border: 2px solid #1E1149;
     padding: 50px;
     text-align: center;
     width: 50vh;
@@ -24,9 +24,9 @@ body {
 }
 
 div:hover {
-    background-color: rgb(11, 66, 0);
-    border: rgb(110, 0, 0) solid 3px;
-    color: red;
+    background-color: #28175E;
+    border: #7D2AE8 solid 3px;
+    color: #DF4446;
 }
 
 a {
